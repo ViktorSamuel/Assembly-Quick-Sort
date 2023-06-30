@@ -1,5 +1,7 @@
 # Assembly-Quick-Sort
-Quick sort implemented in assembly assembly 0x64 at&amp;t with C wrapper for input and output
+Quick sort implemented in assembly assembly 0x64 at&amp;t with C wrapper for input and output\
+Compile using "gcc main.c sort.s -o prog"\
+Run using "./prog"
 
 ## Exampe of usage:
 
