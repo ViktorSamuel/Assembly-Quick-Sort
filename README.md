@@ -11,12 +11,10 @@ To run this program, follow these steps:
     ```shell
     gcc main.c sort.s -o prog
 
-
 2. Execute the program:
 
     ```shell
     ./prog
-
 
 3. The program will prompt you to enter the number of elements you want to sort.
 
@@ -25,7 +23,7 @@ To run this program, follow these steps:
 5. The program will sort the array using the quicksort algorithm and display the sorted elements.
 
 ## Example
-    ```shell
+    
     Number of elements: 3
     Element number 1: 5
     Element number 2: 8
